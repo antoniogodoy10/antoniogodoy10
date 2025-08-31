@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Antônio Godoy
-- 🔭 Atualmente eu curso o 1º período de CiC na PUC-MG.
+- 🔭 Atualmente eu curso o 2º período de CiC na PUC-MG.
 - 🌱 Estou estudando agora JAVA e Python.
 - 🧑‍🤝‍🧑 Estou a procura de um estágio onde possa aprender e evoluir junto com o projeto da empresa.
 
