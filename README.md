@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff79c6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Antônio+Godoy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Antônio+Godoy)](https://git.io/typing-svg)
 
-[![Antônio Godoy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antoniogodoy10&bg_color=0d1117&color=ff79c6&line=ff79c6&point=ff79c6&area=true&area_color=bd93f9&hide_border=true)](https://github.com/antoniogodoy10/)
+[![Antônio Godoy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antoniogodoy10&bg_color=0d1117&color=ff0000&line=ff0000&point=ff0000&area=true&area_color=bd93f9&hide_border=true)](https://github.com/antoniogodoy10/)
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=antoniogodoy10&theme=radical&bg_color=0d1117&row=2&no-bg=true&column=3&color=ff79c6&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=antoniogodoy10&theme=radical&bg_color=0d1117&row=2&no-bg=true&column=3&color=ff0000&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
@@ -15,7 +15,7 @@
 
 <div align="center"> 
     <a href = "mailto:godoyantonio735@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-ff5555?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
-    <a href = "https://www.instagram.com/_antoniogodoy/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-ff79c6?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
+    <a href = "https://www.instagram.com/_antoniogodoy/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
     <a href="https://www.linkedin.com/in/antônio-godoy-738a14350/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-bd93f9?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
 </div>
 
