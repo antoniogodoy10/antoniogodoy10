@@ -1,22 +1,22 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff79c6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+João+Lemos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff79c6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Antônio+Godoy)](https://git.io/typing-svg)
 
-[![Antônio Godoy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaoclemos&bg_color=0d1117&color=ff79c6&line=ff79c6&point=ff79c6&area=true&area_color=bd93f9&hide_border=true)](https://github.com/antoniogodoy10/)
+[![Antônio Godoy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antoniogodoy10&bg_color=0d1117&color=ff79c6&line=ff79c6&point=ff79c6&area=true&area_color=bd93f9&hide_border=true)](https://github.com/antoniogodoy10/)
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=joaoclemos&theme=radical&bg_color=0d1117&row=2&no-bg=true&column=3&color=ff79c6&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=antoniogodoy10&theme=radical&bg_color=0d1117&row=2&no-bg=true&column=3&color=ff79c6&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaoclemos&show_icons=true&count_private=true&hide_border=true&title_color=ffb86c&icon_color=ffb86c&text_color=f8f8f2&bg_color=0d1117" alt="Antônio Godoy github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoclemos&layout=compact&hide_border=true&title_color=ffb86c&text_color=ffb86c&bg_color=0d1117" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=antoniogodoy10&show_icons=true&count_private=true&hide_border=true&title_color=ffb86c&icon_color=ffb86c&text_color=f8f8f2&bg_color=0d1117" alt="Antônio Godoy github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogodoy10&layout=compact&hide_border=true&title_color=ffb86c&text_color=ffb86c&bg_color=0d1117" />
 </div>
 
 <div align="center"> 
     <a href = "mailto:godoyantonio735@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-ff5555?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
-    <a href = "https://www.instagram.com/_antoniogodoy10/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-ff79c6?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/joão-lemos-738a14350/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-bd93f9?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
+    <a href = "https://www.instagram.com/_antoniogodoy/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-ff79c6?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/antônio-godoy-738a14350/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-bd93f9?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
 </div>
 
 <br>
