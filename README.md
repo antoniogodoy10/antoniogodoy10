@@ -16,7 +16,7 @@
 <div align="center"> 
     <a href = "mailto:godoyantonio735@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
     <a href = "https://www.instagram.com/_antoniogodoy/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/antônio-godoy-738a14350/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/ant%C3%B4nio-godoy-a32199382/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
 </div>
 
 <br>
