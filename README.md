@@ -75,13 +75,15 @@ Implementações de algoritmos e exercícios utilizando a linguagem C, com foco 
 
 ---
 
+
 ## 📈 Atividade no GitHub
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=antoniogodoy10&theme=tokyo-night&hide_border=true)
-
----
-
 <div align="center">
+
+![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=antoniogodoy10&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
 
 ### 📫 Vamos nos conectar?
 
