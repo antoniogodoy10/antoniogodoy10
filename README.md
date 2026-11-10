@@ -1,43 +1,91 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Antônio+Godoy)](https://git.io/typing-svg)
-
-[![Antônio Godoy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antoniogodoy10&bg_color=0d1117&color=ff0000&line=ff0000&point=ff0000&area=true&area_color=ff0000&hide_border=true)](https://github.com/antoniogodoy10/)
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=antoniogodoy10&theme=radical&bg_color=0d1117&row=2&no-bg=true&column=3&color=ff0000&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=antoniogodoy10&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=0d1117" alt="Antônio Godoy github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogodoy10&layout=compact&hide_border=true&title_color=ff0000&text_color=ff0000&bg_color=0d1117" />
-</div>
-
-<div align="center"> 
-    <a href = "mailto:godoyantonio735@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
-    <a href = "https://www.instagram.com/_antoniogodoy/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/ant%C3%B4nio-godoy-a32199382/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
-</div>
-
-<br>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=antoniogodoy10&color=ff0000" alt="Profile views" />
+
+# Olá, eu sou o Antônio Godoy! 👋
+
+### 💻 Estudante de Ciência da Computação | Desenvolvedor Web
+
+Apaixonado por tecnologia, programação e desenvolvimento de soluções que resolvem problemas reais.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B4nio-godoy-a32199382/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:godoyantonio735@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antoniogodoy10)
+
 </div>
 
-<br>
-<br>
+---
 
-## 🛠 &nbsp;Languages & Techs
+## 👨‍💻 Sobre mim
 
-### 👨🏻‍💻 &nbsp;Back-end
+- 🎓 Graduando em **Ciência da Computação na PUC Minas**
+- 🚀 Experiência com desenvolvimento de aplicações web
+- ☕ Desenvolvendo conhecimentos em Java e programação orientada a objetos
+- 🗄️ Interesse em back-end, bancos de dados e desenvolvimento full stack
+- 📚 Sempre buscando aprender novas tecnologias e boas práticas de programação
+- 🤝 Aberto a oportunidades de estágio e colaboração em projetos
 
-[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,express,c,cpp)](https://github.com/antoniogodoy10)
+---
 
-### 🎨 &nbsp;Front-end
+## 🛠️ Tecnologias e ferramentas
 
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap)](https://github.com/antoniogodoy10)
+### Linguagens
 
-<br>
+![Languages](https://skillicons.dev/icons?i=java,js,c,cpp,html,css)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=footer"/>
+### Frameworks e tecnologias
+
+![Frameworks](https://skillicons.dev/icons?i=nodejs,express,jquery,bootstrap,maven)
+
+### Banco de dados e ferramentas
+
+![Tools](https://skillicons.dev/icons?i=postgres,git,github,vscode,eclipse,postman)
+
+---
+
+## 🚀 Projetos em destaque
+
+### 📌 Projeto TI2
+Projeto acadêmico desenvolvido durante a graduação, envolvendo programação Java e aplicação prática de conceitos de desenvolvimento de software.
+
+🔗 [Ver repositório](https://github.com/antoniogodoy10/ProjetoTI2)
+
+### ☕ Códigos Java
+Repositório dedicado a exercícios e implementações em Java, incluindo estruturas de dados, algoritmos e programação orientada a objetos.
+
+🔗 [Ver repositório](https://github.com/antoniogodoy10/Codigos-Java)
+
+### 💻 Códigos C
+Implementações de algoritmos e exercícios utilizando a linguagem C, com foco em lógica de programação e fundamentos da computação.
+
+🔗 [Ver repositório](https://github.com/antoniogodoy10/Codigos-C)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antoniogodoy10&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogodoy10&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📈 Atividade no GitHub
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=antoniogodoy10&theme=tokyo-night&hide_border=true)
+
+---
+
+<div align="center">
+
+### 📫 Vamos nos conectar?
+
+Estou sempre aberto a trocar conhecimentos, colaborar em projetos e conhecer novas oportunidades na área de tecnologia.
+
+![Profile Views](https://komarev.com/ghpvc/?username=antoniogodoy10&color=blueviolet&style=flat-square)
+
+</div>
+  
