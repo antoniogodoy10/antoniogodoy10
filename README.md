@@ -61,15 +61,17 @@ Implementações de algoritmos e exercícios utilizando a linguagem C, com foco 
 
 ---
 
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antoniogodoy10&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=antoniogodoy10&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogodoy10&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=antoniogodoy10&layout=compact&theme=tokyonight)
 
 </div>
+
 
 ---
 
