@@ -1,11 +1,11 @@
 
 <div align="center">
 
-# Olá, eu sou o Antônio Godoy! 👋
+# Olá, eu sou Antônio Godoy! 👋
 
-### 💻 Estudante de Ciência da Computação | Desenvolvedor Web
+### Estudante de Ciência da Computação | Desenvolvedor de Software
 
-Apaixonado por tecnologia, programação e desenvolvimento de soluções que resolvem problemas reais.
+Graduando em Ciência da Computação pela PUC Minas, com conhecimentos em desenvolvimento de software, programação orientada a objetos, estruturas de dados e desenvolvimento web.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B4nio-godoy-a32199382/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:godoyantonio735@gmail.com)
@@ -17,50 +17,67 @@ Apaixonado por tecnologia, programação e desenvolvimento de soluções que res
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Graduando em **Ciência da Computação na PUC Minas**
-- 🚀 Experiência com desenvolvimento de aplicações web
-- ☕ Desenvolvendo conhecimentos em Java e programação orientada a objetos
-- 🗄️ Interesse em back-end, bancos de dados e desenvolvimento full stack
-- 📚 Sempre buscando aprender novas tecnologias e boas práticas de programação
-- 🤝 Aberto a oportunidades de estágio e colaboração em projetos
+Sou estudante de Ciência da Computação na Pontifícia Universidade Católica de Minas Gerais (PUC Minas).
+
+Durante minha formação acadêmica, venho desenvolvendo conhecimentos em programação, algoritmos, estruturas de dados, bancos de dados e desenvolvimento de aplicações web.
+
+Tenho experiência com projetos acadêmicos e desenvolvimento de soluções web, utilizando diferentes linguagens e ferramentas.
+
+Atualmente, busco aprimorar minhas competências técnicas por meio de projetos práticos e aprofundamento nos fundamentos da engenharia de software.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Linguagens e tecnologias que estou desenvolvendo
 
-### Linguagens
+<div align="center">
 
-![Languages](https://skillicons.dev/icons?i=java,js,c,cpp,html,css)
+### Linguagens de programação
 
-### Frameworks e tecnologias
+![Languages](https://skillicons.dev/icons?i=java,c,cpp,js)
 
-![Frameworks](https://skillicons.dev/icons?i=nodejs,express,jquery,bootstrap,maven)
+### Desenvolvimento Web
 
-### Banco de dados e ferramentas
+![Web](https://skillicons.dev/icons?i=html,css,bootstrap,jquery)
 
-![Tools](https://skillicons.dev/icons?i=postgres,git,github,vscode,eclipse,postman)
+### Banco de Dados
+
+![Database](https://skillicons.dev/icons?i=postgres)
+
+### Ferramentas de Desenvolvimento
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse,maven,postman)
+
+</div>
 
 ---
 
 ## 🚀 Projetos em destaque
 
 ### 📌 Projeto TI2
-Projeto acadêmico desenvolvido durante a graduação, envolvendo programação Java e aplicação prática de conceitos de desenvolvimento de software.
 
-🔗 [Ver repositório](https://github.com/antoniogodoy10/ProjetoTI2)
+Projeto acadêmico desenvolvido durante a graduação em Ciência da Computação, envolvendo desenvolvimento de software e aplicação de conceitos de programação, integração de sistemas e persistência de dados.
+
+**Tecnologias:** Java, JavaScript, HTML, CSS e PostgreSQL.
+
+🔗 [Acessar repositório](https://github.com/antoniogodoy10/ProjetoTI2)
 
 ### ☕ Códigos Java
-Repositório dedicado a exercícios e implementações em Java, incluindo estruturas de dados, algoritmos e programação orientada a objetos.
 
-🔗 [Ver repositório](https://github.com/antoniogodoy10/Codigos-Java)
+Repositório com implementações de algoritmos, estruturas de dados e exercícios desenvolvidos em Java, com foco em lógica de programação e programação orientada a objetos.
+
+**Tecnologia:** Java.
+
+🔗 [Acessar repositório](https://github.com/antoniogodoy10/Codigos-Java)
 
 ### 💻 Códigos C
-Implementações de algoritmos e exercícios utilizando a linguagem C, com foco em lógica de programação e fundamentos da computação.
 
-🔗 [Ver repositório](https://github.com/antoniogodoy10/Codigos-C)
+Repositório com exercícios e implementações de algoritmos em linguagem C, abordando fundamentos de programação, manipulação de dados e resolução de problemas computacionais.
+
+**Tecnologia:** C.
+
+🔗 [Acessar repositório](https://github.com/antoniogodoy10/Codigos-C)
 
 ---
-
 
 ## 📊 Estatísticas do GitHub
 
@@ -72,24 +89,17 @@ Implementações de algoritmos e exercícios utilizando a linguagem C, com foco 
 
 </div>
 
-
 ---
 
-
-## 📈 Atividade no GitHub
+## 📫 Contato
 
 <div align="center">
 
-![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=antoniogodoy10&theme=tokyo-night&hide_border=true&area=true)
+Estou disponível para oportunidades de estágio, colaboração em projetos e desenvolvimento profissional na área de tecnologia.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B4nio-godoy-a32199382/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:godoyantonio735@gmail.com)
 
 </div>
 
-
-### 📫 Vamos nos conectar?
-
-Estou sempre aberto a trocar conhecimentos, colaborar em projetos e conhecer novas oportunidades na área de tecnologia.
-
-![Profile Views](https://komarev.com/ghpvc/?username=antoniogodoy10&color=blueviolet&style=flat-square)
-
-</div>
-  
